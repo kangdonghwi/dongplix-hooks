@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/dongplix/static/js/main.cffd503c.chunk.js",
+    "main.js.map": "/dongplix/static/js/main.cffd503c.chunk.js.map",
+    "runtime-main.js": "/dongplix/static/js/runtime-main.e0d40b9b.js",
+    "runtime-main.js.map": "/dongplix/static/js/runtime-main.e0d40b9b.js.map",
+    "static/js/2.d5de0b71.chunk.js": "/dongplix/static/js/2.d5de0b71.chunk.js",
+    "static/js/2.d5de0b71.chunk.js.map": "/dongplix/static/js/2.d5de0b71.chunk.js.map",
+    "index.html": "/dongplix/index.html",
+    "precache-manifest.278036a0dbeb4b3ae8f8fc91ac0fce4a.js": "/dongplix/precache-manifest.278036a0dbeb4b3ae8f8fc91ac0fce4a.js",
+    "service-worker.js": "/dongplix/service-worker.js",
+    "static/js/2.d5de0b71.chunk.js.LICENSE.txt": "/dongplix/static/js/2.d5de0b71.chunk.js.LICENSE.txt",
+    "static/media/Loading.gif": "/dongplix/static/media/Loading.6bc11c2e.gif",
+    "static/media/NoVideo.jpg": "/dongplix/static/media/NoVideo.13526e1e.jpg",
+    "static/media/header.jpg": "/dongplix/static/media/header.eac42b8d.jpg",
+    "static/media/noPosterSmall.png": "/dongplix/static/media/noPosterSmall.87a0eb6a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0d40b9b.js",
+    "static/js/2.d5de0b71.chunk.js",
+    "static/js/main.cffd503c.chunk.js"
+  ]
+}

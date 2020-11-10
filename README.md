@@ -3,8 +3,8 @@ https://kangdonghwi.github.io/dongplix-hooks/#/
 ## 소개
 
 - 클래스형 컴포넌트로 개발한 dongplix를 hooks를 사용해 함수형 컴포넌트로 변경
-![image](https://user-images.githubusercontent.com/42789883/98683295-32482980-23a8-11eb-8856-ca2aa1b27e66.png){: width="200px" height="200px"}
-![image](https://user-images.githubusercontent.com/42789883/98683398-560b6f80-23a8-11eb-9130-c621153dc8a3.png){: width="200px" height="200px"}
+![image](https://user-images.githubusercontent.com/42789883/98683295-32482980-23a8-11eb-8856-ca2aa1b27e66.png width="40%")
+![image](https://user-images.githubusercontent.com/42789883/98683398-560b6f80-23a8-11eb-9130-c621153dc8a3.png width="40%")
 
 ## 특징
 
